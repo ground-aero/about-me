@@ -6,8 +6,7 @@
 - 👨‍💻 most of my projects are available here at [https://github.com/ground-aero](https://github.com/ground-aero/ground-aero/)
 
 
-<h3 align="left">Connect with me:</h3>
-**ea.avdeev@gmail.com, e.avdeev@ground.aero**
+<h3 align="left">Connect with me:</h3> (ea.avdeev@gmail.com), (e.avdeev@ground.aero)
 <p align="left">
 </p>
 
