@@ -3,7 +3,7 @@
 
 - 🔭 currently working on ['Mesto' app, and ground.aero projects](http://ground.aero)
 
-- 👨‍💻 all of my projects are available at [https://github.com/ground-aero/ground-aero/](https://github.com/ground-aero/ground-aero/)
+- 👨‍💻 most of my projects are available here at [https://github.com/ground-aero](https://github.com/ground-aero/ground-aero/)
 
 - 📫 How to reach me: **ea.avdeev@gmail.com, e.avdeev@ground.aero**
 
