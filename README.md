@@ -1,18 +1,11 @@
-## Hi there 👋,
-## I'm Eugene
-<h3 align="left">A passionate front-end developer from Russia</h3>
+## Hi there 👋, I'm Eugene
+<h3 align="left">Front-end Developer from Russia</h3>
 
-🚀 My stack:
-- JavaScript
-- HTML5
-- CSS3
-- WebPack
+- 🔭 currently working on ['Mesto' app, and ground.aero projects](http://ground.aero)
 
-- 🔭 I’m currently working on ['Mesto' app, and ground.aero projects](http://ground.aero)
+- 👨‍💻 all of my projects are available at [https://github.com/ground-aero/ground-aero/](https://github.com/ground-aero/ground-aero/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ground-aero/ground-aero/](https://github.com/ground-aero/ground-aero/)
-
-- 📫 How to reach me **ea.avdeev@gmail.com, e.avdeev@ground.aero**
+- 📫 How to reach me: **ea.avdeev@gmail.com, e.avdeev@ground.aero**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
