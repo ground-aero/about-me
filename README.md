@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Eugene from RU
-<h3 align="left">Front-end Developer</h3>
+<h3 align="left">Trainee, Front-end Web Developer</h3>
 
 - 🔭 currently working on ['Mesto' app, and ground.aero projects](http://ground.aero)
 
