@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Eugene
-<h3 align="left">Front-end Developer from Russia</h3>
+## Hi there 👋, I'm Eugene from RU
+<h3 align="left">Front-end Developer</h3>
 
 - 🔭 currently working on ['Mesto' app, and ground.aero projects](http://ground.aero)
 
