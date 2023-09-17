@@ -1,12 +1,12 @@
 ## 👋, I'm Eugene
-<h3 align="left">passionate about web development</h3>
+<h3 align="left">Web developer</h3>
 
-- 🔭 currently working on ['Mesto' app, and ground.aero projects](http://ground.aero)
+- 🔭 currently working on ['Mesto' app, and ground.aero projects](https://ground.aero)
 
 - 👨‍💻 some of my projects are available here at [https://github.com/ground-aero](https://github.com/ground-aero/ground-aero/)
 
 
-<h3 align="left">Connect with me:</h3> (ea.avdeev@gmail.com), (e.avdeev@ground.aero)
+<h3 align="left">Connect with me:</h3> (e.avdeev@ground.aero), (ea.avdeev@gmail.com) 
 <p align="left">
 </p>
 
