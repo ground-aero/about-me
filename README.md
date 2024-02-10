@@ -1,7 +1,7 @@
 ## 👋, I'm Eugene
 <h3 align="left">Web developer</h3>
 
-- 🔭 currently working on ['Movies' app, acode.it projects]()
+- 🔭 currently working on ['Movies app - full-stack'](https://github.com/ground-aero/movies-explorer-frontend)
 
 - 👨‍💻 some of my projects are available here at [https://github.com/ground-aero](https://github.com/ground-aero/ground-aero/)
 
